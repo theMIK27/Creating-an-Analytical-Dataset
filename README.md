@@ -24,7 +24,5 @@ To properly build the model, and select predictor variables, create a dataset wi
 6. Population density
 7. Total families
 
-This dataset will be your training set to help you build a regression model in order to predict sales in the Practice Project in the next lesson. Every row should have sales data because we're trying to predict sales.
-
 Step 3: Dealing with Outliers
 Once you have created the dataset, look for outliers and figure out how deal with your outliers. Use the IQR method to determine if there are outlier cities for each of the variables and then justify which city that has at least one outlier value should be removed.
