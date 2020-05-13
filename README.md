@@ -15,16 +15,16 @@ Step 1: Business and Data Understanding
 Your project should include a description of the key business decisions that need to be made.
 
 Step 2: Building the Training Set
-To properly build the model, and select predictor variables, create a dataset with the following columns:
--City2010
--Census Population
--Total Pawdacity Sales
--Households with Under 18
--Land Area
--Population Density
--Total Families
+To properly build the model, and select predictor variables, create a dataset with the given data:
+1. City
+2. 2010 census population
+3. Total pawdacity sales
+4. Household with under 18
+5. Land area
+6. Population density
+7. Total families
 
 This dataset will be your training set to help you build a regression model in order to predict sales in the Practice Project in the next lesson. Every row should have sales data because we're trying to predict sales.
 
 Step 3: Dealing with Outliers
-Once you have created the dataset, look for outliers and figure out how deal with your outliers. Use the IQR method to determine if there are outlier cities for each of the variables and then justify which city that has at least one outlier value should be 
+Once you have created the dataset, look for outliers and figure out how deal with your outliers. Use the IQR method to determine if there are outlier cities for each of the variables and then justify which city that has at least one outlier value should be removed.
