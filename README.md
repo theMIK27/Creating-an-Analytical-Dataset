@@ -16,14 +16,13 @@ Your project should include a description of the key business decisions that nee
 
 Step 2: Building the Training Set
 To properly build the model, and select predictor variables, create a dataset with the following columns:
-
-City
-2010 Census Population
-Total Pawdacity Sales
-Households with Under 18
-Land Area
-Population Density
-Total Families
+-City2010
+-Census Population
+-Total Pawdacity Sales
+-Households with Under 18
+-Land Area
+-Population Density
+-Total Families
 
 This dataset will be your training set to help you build a regression model in order to predict sales in the Practice Project in the next lesson. Every row should have sales data because we're trying to predict sales.
 
